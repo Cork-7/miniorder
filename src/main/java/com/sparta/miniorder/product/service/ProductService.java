@@ -1,9 +1,9 @@
-package com.sparta.miniorder.service;
+package com.sparta.miniorder.product.service;
 
-import com.sparta.miniorder.dto.ProductRequest;
-import com.sparta.miniorder.dto.ProductResponse;
-import com.sparta.miniorder.entity.Product;
-import com.sparta.miniorder.repository.ProductRepository;
+import com.sparta.miniorder.product.dto.ProductRequest;
+import com.sparta.miniorder.product.dto.ProductResponse;
+import com.sparta.miniorder.product.entity.Product;
+import com.sparta.miniorder.product.repository.ProductRepository;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

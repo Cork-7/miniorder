@@ -1,6 +1,6 @@
-package com.sparta.miniorder.dto;
+package com.sparta.miniorder.product.dto;
 
-import com.sparta.miniorder.entity.Product;
+import com.sparta.miniorder.product.entity.Product;
 import lombok.Getter;
 
 @Getter
